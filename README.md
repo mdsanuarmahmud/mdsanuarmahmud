@@ -2,11 +2,13 @@
 
 # 👋 Hi, I'm Md Sanuar Mahmud
 
-### Full-Stack Developer | IPTV Specialist | Streaming Solutions Expert
+### 🏗️ Civil Engineer | 💻 Web Developer | 📺 IPTV Specialist
 
-[![Website](https://img.shields.io/badge/Website-sanuar.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanuar.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Civil+Engineer+%7C+AUST+Graduate;10%2B+Years+Web+Development;Structural+Analysis+Expert;IPTV+%26+Streaming+Solutions" alt="Typing SVG" />
+
+[![Website](https://img.shields.io/badge/Portfolio-sanuar.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanuar.net)
+[![Email](https://img.shields.io/badge/Email-hello%40sanuar.net-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sanuar.net)
 [![Twitter](https://img.shields.io/badge/Twitter-@mdsanuarmahmud-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdsanuarmahmud)
-[![GitHub](https://img.shields.io/badge/GitHub-mdsanuarmahmud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsanuarmahmud)
 
 <img src="https://komarev.com/ghpvc/?username=mdsanuarmahmud&style=flat-square&color=blue" alt="Profile Views"/>
 
@@ -16,36 +18,67 @@
 
 ## 🚀 About Me
 
+I'm a **Civil Engineer** with expertise in structural analysis, construction engineering, and project management. Graduated from **Ahsanullah University of Science and Technology (AUST)**, I've contributed to several key projects including EPZ BDO projects, ensuring quality and safety in construction.
+
+Alongside my engineering career, I have **10+ years of experience** as a freelance web developer, specializing in WordPress, Python Django, and custom streaming solutions.
+
 ```javascript
 const sanuar = {
+    age: 24,
     location: "Dhaka, Bangladesh 🇧🇩",
-    role: "Full-Stack Developer",
-    expertise: ["IPTV Solutions", "Streaming Platforms", "Web Automation"],
-    languages: ["PHP", "Python", "JavaScript", "HTML/CSS"],
-    currentFocus: "Building scalable streaming platforms",
-    funFact: "I turn live streams into seamless experiences ⚡"
+    education: "B.Sc. in Civil Engineering - AUST",
+    roles: ["Civil Engineer", "Web Developer", "IPTV Specialist"],
+    expertise: {
+        engineering: ["Structural Analysis", "Construction Management", "Project Planning"],
+        development: ["WordPress", "Python Django", "PHP", "IPTV Solutions"]
+    },
+    languages: ["English", "Bengali", "Hindi"],
+    contact: "hello@sanuar.net",
+    freelance: "Available ✅"
 };
 ```
 
 ---
 
-## 💻 Tech Stack
+## 🎓 Education
+
+| Degree | Institution | Focus |
+|--------|-------------|-------|
+| 🎓 **B.Sc. Civil Engineering** | Ahsanullah University of Science & Technology | Structural Analysis, Construction Management |
+| 📚 **HSC (Science)** | Higher Secondary Education | Science & Mathematics |
+
+---
+
+## 💼 Professional Experience
+
+- 🏗️ **Construction Engineer** - EPZ BDO Projects
+- 👥 **Team Leader** - Project Management & Site Operations
+- 🌐 **Freelance Web Developer** - 10+ Years Experience
+- 📺 **IPTV Platform Developer** - Streaming Solutions Expert
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### Engineering & Analysis
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
+![ETABS](https://img.shields.io/badge/ETABS-0078D4?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Programming & Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### Frameworks & Tools
+### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Streaming Technologies
 ![HLS](https://img.shields.io/badge/HLS-black?style=for-the-badge&logo=apple&logoColor=white)
@@ -67,7 +100,18 @@ const sanuar = {
 | 🎬 **[LiveTVCollector](https://github.com/mdsanuarmahmud/LiveTVCollector)** | World LiveTV M3U collections | Python |
 | ⚽ **[T-Sports-Playlist](https://github.com/mdsanuarmahmud/T-Sports-Playlist-Auto-Update)** | Bangladesh T Sports auto-updater | Python |
 | 🏏 **[FanCode-Fetcher](https://github.com/mdsanuarmahmud/FanCode-Hls-Fetcher)** | Live FanCode match links | Python |
-| 📡 **[CricHD-Playlist](https://github.com/mdsanuarmahmud/CricHd-playlists-Auto-Update-permanent)** | Auto-updated sports playlists | Python |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+[![EOSH-UK](https://img.shields.io/badge/EOSH--UK-Health%20%26%20Safety-green?style=for-the-badge)](https://drive.google.com/file/d/1FvKo8J1P842g-MuxThwKgq-OYGkSVkZL/view)
+[![Udemy](https://img.shields.io/badge/Udemy-Certified-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://ude.my/UC-d37bf51b-d601-4b8b-8532-707273e9364d)
+[![Google](https://img.shields.io/badge/Google-Digital%20Marketing-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://skillshop.exceedlms.com/student/collection/654330-digital-marketing)
 
 </div>
 
@@ -92,11 +136,12 @@ const sanuar = {
 
 <div align="center">
 
-| 📺 IPTV Solutions | 🌐 Web Development | 🤖 Automation |
+| 🏗️ Civil Engineering | 💻 Web Development | 📺 IPTV Solutions |
 |:---:|:---:|:---:|
-| Live streaming platforms | Full-stack applications | Playlist generators |
-| HLS/DASH integration | PHP & Python backends | Web scrapers |
-| Video proxy systems | Responsive UIs | Cron job automation |
+| Structural Analysis | WordPress & Django | Live Streaming Platforms |
+| Construction Management | Custom Web Applications | HLS/DASH Integration |
+| Project Planning | Responsive UI Design | Video Proxy Systems |
+| Quality & Safety | Python Automation | Playlist Automation |
 
 </div>
 
@@ -106,10 +151,17 @@ const sanuar = {
 
 <div align="center">
 
-💼 **Open for freelance projects and collaborations**
+💼 **Open for Engineering Projects & Web Development**
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sanuar.com)
-[![Website](https://img.shields.io/badge/Portfolio-sanuar.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanuar.com)
+| Contact | Details |
+|---------|---------|
+| 📧 **Email** | hello@sanuar.net |
+| 🌐 **Portfolio** | [sanuar.net](https://sanuar.net) |
+| 📍 **Location** | Dhaka, Bangladesh 🇧🇩 |
+| 💼 **Freelance** | Available ✅ |
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sanuar.net)
+[![Website](https://img.shields.io/badge/Portfolio-sanuar.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanuar.net)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdsanuarmahmud)
 
 </div>
@@ -118,7 +170,7 @@ const sanuar = {
 
 <div align="center">
 
-### 💡 "Turning complex streams into seamless experiences"
+### 💡 "Bridging Engineering & Technology for Innovative Solutions"
 
 ⭐ **If you find my projects useful, consider giving them a star!** ⭐
 
