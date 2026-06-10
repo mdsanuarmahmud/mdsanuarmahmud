@@ -1,177 +1,236 @@
 <div align="center">
 
-# 👋 Hi, I'm Md Sanuar Mahmud
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1019,50:10b981,100:818cf8&height=220&section=header&text=Md%20Sanuar%20Mahmud&fontSize=42&fontColor=f1f5f9&fontAlignY=35&desc=Engineer%20%E2%80%A2%20Developer%20%E2%80%A2%20Writer&descSize=18&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%" />
 
-### 🏗️ Civil Engineer | 💻 Web Developer | 📺 IPTV Specialist
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Civil+Engineer+%7C+AUST+Graduate;10%2B+Years+Web+Development;Structural+Analysis+Expert;IPTV+%26+Streaming+Solutions" alt="Typing SVG" />
+<a href="https://sanuar.net">
+  <img src="https://img.shields.io/badge/sanuar.net-000000?style=for-the-badge&logo=google-chrome&logoColor=10b981" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/mdsanuarmahmud">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/mdsanuarmahmud">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+</a>
+<a href="mailto:hello@sanuar.net">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-[![Website](https://img.shields.io/badge/Portfolio-sanuar.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanuar.net)
-[![Email](https://img.shields.io/badge/Email-hello%40sanuar.net-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sanuar.net)
-[![Twitter](https://img.shields.io/badge/Twitter-@mdsanuarmahmud-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdsanuarmahmud)
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mdsanuarmahmud&style=flat-square&color=blue" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Civil+Engineer+%7C+Web+Developer;Technical+Writer+%7C+Researcher" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mdsanuarmahmud&style=flat-square&color=10b981&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
-
-I'm a **Civil Engineer** with expertise in structural analysis, construction engineering, and project management. Graduated from **Ahsanullah University of Science and Technology (AUST)**, I've contributed to several key projects including EPZ BDO projects, ensuring quality and safety in construction.
-
-Alongside my engineering career, I have **10+ years of experience** as a freelance web developer, specializing in WordPress, Python Django, and custom streaming solutions.
+## `> whoami`
 
 ```javascript
 const sanuar = {
-    age: 24,
-    location: "Dhaka, Bangladesh 🇧🇩",
-    education: "B.Sc. in Civil Engineering - AUST",
-    roles: ["Civil Engineer", "Web Developer", "IPTV Specialist"],
+    location:  "Dhaka, Bangladesh 🇧🇩",
+    education: "B.Sc. Civil Engineering — AUST",
+    roles:     ["Civil Engineer", "Web Developer", "Technical Writer", "Researcher"],
     expertise: {
-        engineering: ["Structural Analysis", "Construction Management", "Project Planning"],
-        development: ["WordPress", "Python Django", "PHP", "IPTV Solutions"]
+        engineering:  ["Structural Analysis", "Construction Management", "Project Planning"],
+        development:  ["WordPress", "Python / Django", "PHP", "HTML / CSS / JS"],
+        writing:      ["PythonTimes — AI & Data Science", "EngineersThought — Civil Engineering"]
     },
-    languages: ["English", "Bengali", "Hindi"],
-    contact: "hello@sanuar.net",
-    freelance: "Available ✅"
+    currentWork: "EPZ BDO Projects — Structural Engineering & Quality Assurance",
+    freelance:   "Available ✅",
+    contact:     "hello@sanuar.net"
 };
 ```
 
----
+> *I build structures in the real world and on the web — bridging the gap between physical infrastructure and digital solutions.*
 
-## 🎓 Education
-
-| Degree | Institution | Focus |
-|--------|-------------|-------|
-| 🎓 **B.Sc. Civil Engineering** | Ahsanullah University of Science & Technology | Structural Analysis, Construction Management |
-| 📚 **HSC (Science)** | Higher Secondary Education | Science & Mathematics |
-
----
-
-## 💼 Professional Experience
-
-- 🏗️ **Construction Engineer** - EPZ BDO Projects
-- 👥 **Team Leader** - Project Management & Site Operations
-- 🌐 **Freelance Web Developer** - 10+ Years Experience
-- 📺 **IPTV Platform Developer** - Streaming Solutions Expert
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Engineering & Analysis
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
-![ETABS](https://img.shields.io/badge/ETABS-0078D4?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Programming & Development
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+#### Frameworks & Platforms
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### Engineering Tools
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=flat-square&logo=autodesk&logoColor=white)
+![ETABS](https://img.shields.io/badge/ETABS-0078D4?style=flat-square&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### Streaming Technologies
-![HLS](https://img.shields.io/badge/HLS-black?style=for-the-badge&logo=apple&logoColor=white)
-![DASH](https://img.shields.io/badge/DASH-FF6B35?style=for-the-badge)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🏏 **[Cricbun](https://github.com/mdsanuarmahmud/cricbun)** | Professional IPTV Streaming Platform | PHP, MySQL, HLS |
-| 📺 **[IPTV-Scraper-Zilla](https://github.com/mdsanuarmahmud/IPTV-Scraper-Zilla)** | Auto-updating IPTV playlist generator | Python |
-| 🎬 **[LiveTVCollector](https://github.com/mdsanuarmahmud/LiveTVCollector)** | World LiveTV M3U collections | Python |
-| ⚽ **[T-Sports-Playlist](https://github.com/mdsanuarmahmud/T-Sports-Playlist-Auto-Update)** | Bangladesh T Sports auto-updater | Python |
-| 🏏 **[FanCode-Fetcher](https://github.com/mdsanuarmahmud/FanCode-Hls-Fetcher)** | Live FanCode match links | Python |
+#### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
 </div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-[![EOSH-UK](https://img.shields.io/badge/EOSH--UK-Health%20%26%20Safety-green?style=for-the-badge)](https://drive.google.com/file/d/1FvKo8J1P842g-MuxThwKgq-OYGkSVkZL/view)
-[![Udemy](https://img.shields.io/badge/Udemy-Certified-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://ude.my/UC-d37bf51b-d601-4b8b-8532-707273e9364d)
-[![Google](https://img.shields.io/badge/Google-Digital%20Marketing-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://skillshop.exceedlms.com/student/collection/654330-digital-marketing)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdsanuarmahmud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsanuarmahmud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsanuarmahmud&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
+## 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Portfolio CMS</h3>
+      <p align="center">
+        <a href="https://github.com/mdsanuarmahmud/portfolio">
+          <img src="https://img.shields.io/badge/View_Repo-131825?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="https://sanuar.net">
+          <img src="https://img.shields.io/badge/Live_Site-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live"/>
+        </a>
+      </p>
+      <p align="center"><em>Full-featured portfolio & CMS with Gemini AI content writer, flat-file database, analytics dashboard, and glassmorphic dark UI.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">❤️ RoktoLagbe</h3>
+      <p align="center">
+        <a href="https://roktolagbe.com">
+          <img src="https://img.shields.io/badge/Live_Site-ef4444?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live"/>
+        </a>
+      </p>
+      <p align="center"><em>Blood donation platform connecting donors with patients across Bangladesh — saving lives through technology.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏗️ EngineersThought</h3>
+      <p align="center">
+        <a href="https://engineersthought.com">
+          <img src="https://img.shields.io/badge/Live_Site-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live"/>
+        </a>
+      </p>
+      <p align="center"><em>Civil engineering knowledge blog — sharing insights, technical articles, and research for professionals in the field.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/SEO-FF6B35?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏏 CricBun</h3>
+      <p align="center">
+        <a href="https://cricbun.com">
+          <img src="https://img.shields.io/badge/Live_Site-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live"/>
+        </a>
+      </p>
+      <p align="center"><em>Cricket news and statistics platform delivering real-time updates, live scores, and in-depth match analysis.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏢 Kaymonto</h3>
+      <p align="center">
+        <a href="https://kaymonto.com">
+          <img src="https://img.shields.io/badge/Live_Site-f59e0b?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live"/>
+        </a>
+      </p>
+      <p align="center"><em>Professional construction company website showcasing services, completed projects, and company portfolio.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 PythonTimes Articles</h3>
+      <p align="center">
+        <a href="https://sanuar.net/blog">
+          <img src="https://img.shields.io/badge/Read_Articles-8b5cf6?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
+        </a>
+      </p>
+      <p align="center"><em>20+ technical articles covering Python, AI, Data Science, and web development best practices.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mdsanuarmahmud&show_icons=true&theme=github_dark&hide_border=true&bg_color=0c1019&title_color=10b981&icon_color=10b981&text_color=94a3b8&ring_color=10b981&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsanuarmahmud&layout=compact&theme=github_dark&hide_border=true&bg_color=0c1019&title_color=10b981&text_color=94a3b8&langs_count=8" alt="Top Languages" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsanuarmahmud&theme=github-dark-blue&hide_border=true&background=0c1019&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=94a3b8&dates=475569&currStreakNum=f1f5f9&sideNums=f1f5f9" alt="GitHub Streak" />
+</div>
 
-## 🎯 What I Do
+<br/>
+
+## ✍️ Latest Writing
+
+<!-- BLOG POSTS -->
+| 📅 | Title | Category |
+|---|---|---|
+| Aug 2024 | **The Art of Storytelling With Data: Creating Compelling Visualizations With Python** | Data Science |
+| Jul 2024 | **AI in Agriculture: Improving Crop Yield With Data Science** | AI & ML |
+| Jun 2024 | **Serverless Computing With Python: Getting Started With AWS Lambda** | Web Development |
+| May 2024 | **Python for Environmental Science: Analyzing Climate Data** | Data Science |
+| Apr 2024 | **Securing Your Flask Application: Best Practices** | Web Development |
+| Mar 2024 | **Understanding Concrete Core Testing: Research Insights** | Civil Engineering |
+
+<p align="right"><a href="https://sanuar.net/blog">📖 Read all articles →</a></p>
+
+<br/>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-| 🏗️ Civil Engineering | 💻 Web Development | 📺 IPTV Solutions |
-|:---:|:---:|:---:|
-| Structural Analysis | WordPress & Django | Live Streaming Platforms |
-| Construction Management | Custom Web Applications | HLS/DASH Integration |
-| Project Planning | Responsive UI Design | Video Proxy Systems |
-| Quality & Safety | Python Automation | Playlist Automation |
+I'm always open to interesting conversations and collaboration opportunities.
+
+Whether you need **engineering consultation**, a **modern website**, or want to **collaborate on open-source** — let's talk.
+
+<br/>
+
+<a href="mailto:hello@sanuar.net">
+  <img src="https://img.shields.io/badge/📧_hello@sanuar.net-10b981?style=for-the-badge" alt="Email Me" />
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/mdsanuarmahmud"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/mdsanuarmahmud"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
+<a href="https://facebook.com/mdsanuarmahmud"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://github.com/mdsanuarmahmud"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
----
+<br/>
 
-## 📫 Let's Connect
-
-<div align="center">
-
-💼 **Open for Engineering Projects & Web Development**
-
-| Contact | Details |
-|---------|---------|
-| 📧 **Email** | hello@sanuar.net |
-| 🌐 **Portfolio** | [sanuar.net](https://sanuar.net) |
-| 📍 **Location** | Dhaka, Bangladesh 🇧🇩 |
-| 💼 **Freelance** | Available ✅ |
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sanuar.net)
-[![Website](https://img.shields.io/badge/Portfolio-sanuar.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanuar.net)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdsanuarmahmud)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Bridging Engineering & Technology for Innovative Solutions"
-
-⭐ **If you find my projects useful, consider giving them a star!** ⭐
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1019,50:10b981,100:818cf8&height=120&section=footer" width="100%" />
