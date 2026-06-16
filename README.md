@@ -144,12 +144,15 @@ Civil engineering research & technical articles (50+ posts, SEO-optimized).
 
 ## 📝 **Recent Writing**
 
+<!-- BLOG:START -->
 | Date | Article | Category |
 |------|---------|----------|
-| Aug 2024 | The Art of Storytelling With Data | Data Science |
-| Jul 2024 | AI in Agriculture: Crop Yield Prediction | AI & ML |
-| Jun 2024 | Serverless Computing With AWS Lambda | DevOps |
-| Apr 2024 | Securing Your Flask Application | Backend Security |
+| 2026-06 | [Automating Structural Calculations: A Practical Python Beam Analysis Guide](https://sanuar.net/automating-structural-calculations-python) | Engineering |
+| 2026-06 | [Do Junk Emails Harm the Environment?](https://sanuar.net/junk-emails-harm-the-environment) | Technology & Environment |
+| 2024-08 | [Building a Custom Blood Donor Directory in Django](https://sanuar.net/custom-blood-donor-directory-django) | Web Development |
+| 2026-06 | [Common AutoCAD Mistakes That Ruin Structural Drawings](https://sanuar.net/prevent-common-autocad-mistakes) | Engineering |
+| 2023-03 | [Standard vs. Non-Standard Concrete Core Testing](https://sanuar.net/concrete-core-testing-size-differences) | Engineering |
+<!-- BLOG:END -->
 
 [→ View all articles](https://sanuar.net/blog)
 
