@@ -1,0 +1,70 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 6am UTC
+  workflow_dispatch:
+
+jobs:
+  update-blog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update blog posts from RSS
+        run: |
+          python3 << 'PYEOF'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          import re
+
+          url = "https://sanuar.net/feed"
+          with urllib.request.urlopen(url, timeout=15) as resp:
+              raw = resp.read()
+
+          root = ET.fromstring(raw)
+          items = root.findall('.//item')[:5]
+
+          rows = []
+          for item in items:
+              title = item.findtext('title', '').strip()
+              link  = item.findtext('link', '').strip()
+              cat   = item.findtext('category', '').strip()
+              pub   = item.findtext('pubDate', '').strip()
+              try:
+                  from email.utils import parsedate
+                  d = parsedate(pub)
+                  date_str = f"{d[0]}-{d[1]:02d}"
+              except Exception:
+                  date_str = pub[:7]
+              rows.append(f"| {date_str} | [{title}]({link}) | {cat} |")
+
+          table = "| Date | Article | Category |\n|------|---------|----------|\n" + "\n".join(rows)
+
+          readme_path = "README.md"
+          with open(readme_path, 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          new_content = re.sub(
+              r'<!-- BLOG:START -->.*?<!-- BLOG:END -->',
+              '<!-- BLOG:START -->\n' + table + '\n<!-- BLOG:END -->',
+              content,
+              flags=re.DOTALL
+          )
+
+          with open(readme_path, 'w', encoding='utf-8') as f:
+              f.write(new_content)
+
+          print(f"Updated {len(items)} articles.")
+          PYEOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes." && exit 0
+          git add README.md
+          git commit -m "chore: auto-update blog posts from RSS"
+          git push
