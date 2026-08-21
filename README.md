@@ -147,11 +147,11 @@ Civil engineering research & technical articles (50+ posts, SEO-optimized).
 <!-- BLOG:START -->
 | Date | Article | Category |
 |------|---------|----------|
-| 2026-06 | [Automating Structural Calculations: A Practical Python Beam Analysis Guide](https://sanuar.net/automating-structural-calculations-python) | Engineering |
-| 2026-06 | [Do Junk Emails Harm the Environment? The Unseen Environmental Impact of Digital Clutter](https://sanuar.net/junk-emails-harm-the-environment) | Technology & Environment |
-| 2024-08 | [Building a Custom Blood Donor Directory in Django: A Real-World Case Study](https://sanuar.net/custom-blood-donor-directory-django) | Web Development |
-| 2026-06 | [Common AutoCAD Mistakes That Ruin Structural Drawings (And How to Fix Them)](https://sanuar.net/prevent-common-autocad-mistakes) | Engineering |
-| 2023-03 | [Standard vs. Non-Standard Concrete Core Testing: The Civil Engineer's Forensic Guide](https://sanuar.net/concrete-core-testing-size-differences) | Engineering |
+| 2026-08 | [Top Tips For Excelling In Livestock Exams](https://diplomainlivestock.com/top-tips-for-excelling-in-livestock-exams/?utm_source=rss&utm_medium=rss&utm_campaign=top-tips-for-excelling-in-livestock-exams) | Category 1 |
+| 2026-08 | [Hello world!](https://diplomainlivestock.com/hello-world/?utm_source=rss&utm_medium=rss&utm_campaign=hello-world) | Uncategorized |
+| 2026-08 | [Understanding Modern Animal Husbandry Techniques Today](https://diplomainlivestock.com/understanding-modern-animal-husbandry-techniques-today/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-modern-animal-husbandry-techniques-today) | Category 2 |
+| 2026-08 | [How To Effectively Research Livestock Diseases](https://diplomainlivestock.com/how-to-effectively-research-livestock-diseases/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-effectively-research-livestock-diseases) | Category 3 |
+| 2026-08 | [Essential Skills For Future Veterinary Professionals](https://diplomainlivestock.com/essential-skills-for-future-veterinary-professionals/?utm_source=rss&utm_medium=rss&utm_campaign=essential-skills-for-future-veterinary-professionals) | Category 4 |
 <!-- BLOG:END -->
 
 [→ View all articles](https://sanuar.net/blog)
