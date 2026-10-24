@@ -147,7 +147,11 @@ Civil engineering research & technical articles (50+ posts, SEO-optimized).
 <!-- BLOG:START -->
 | Date | Article | Category |
 |------|---------|----------|
-
+| 2026-09 | [Structural Risk Assessment for Building Security: Step-by-Step Guide](https://sanuar.net/structural-risk-assessment-building-security) | Engineering |
+| 2026-06 | [Python for Environmental Site Assessments in Civil Engineering: A Practical Hands-on Guide](https://sanuar.net/python-environmental-assessments) | Environmental Engineering |
+| 2026-06 | [Automating Structural Calculations: A Practical Python Beam Analysis Guide](https://sanuar.net/automating-structural-calculations-python) | Engineering |
+| 2026-06 | [Do Junk Emails Harm the Environment? The Unseen Environmental Impact of Digital Clutter](https://sanuar.net/junk-emails-harm-the-environment) | Technology & Environment |
+| 2024-08 | [Building a Custom Blood Donor Directory in Django: A Real-World Architectural Case Study](https://sanuar.net/custom-blood-donor-directory-django) | Web Development |
 <!-- BLOG:END -->
 
 [→ View all articles](https://sanuar.net/blog)
